@@ -9,7 +9,7 @@ import sia.knights.BraveKnight;
 import sia.knights.Knight;
 import sia.knights.Quest;
 import sia.knights.SlayDragonQuest;
-
+//通过java配置bean
 @Configuration
 public class KnightConfig {
 
